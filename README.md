@@ -4,7 +4,7 @@ My name is Aditya, I'm a recent graduate from the College of Computing, Data Sci
 Previously, I:
 - Built a low latency (<5ms) NLP based search engine for efficient medical code retrieval.
 - worked with the IGI team to create a model that can predict missing/corrupt RNA sequences.
-- worked with a startup to help improve their LLM fine tuning speed by 95%.
+- worked with a startup to help improve their LLM inference speed by ~ 95% by improving fine tuning methods.
 
 Currently, I'm:
 - Building a Jarvis style personal assistant to boost productivity.
