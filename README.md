@@ -14,6 +14,8 @@ Currently, I'm:
 If you want to get in touch with me, you can email me at aditya[dot]iyer [at] berkeley [dot] edu
 
 To see what else I'm working on go [here](https://linktr.ee/adityaiyer7).
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaiyer7&show_icons=true&theme=default)
+
 <!--
 **adityaiyer7/adityaiyer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
