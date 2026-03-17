@@ -7,9 +7,7 @@ Previously, I:
 - worked with a startup to help improve their LLM inference speed by ~ 95% by improving fine tuning methods.
 
 Currently, I'm:
-- Building a Jarvis style personal assistant to boost productivity.
-- Working and learning how to make LLM systems more efficient and reliable.
-- Learning more math to understand ML theory.
+- 🤨🧐🥸
 
 If you want to get in touch with me, you can email me at aditya[dot]iyer [at] berkeley [dot] edu
 
